@@ -1,0 +1,45 @@
+.nav-menu{
+    background-color: antiquewhite;
+    height: 70px;
+}
+
+.main-menu{
+float: right;
+}
+
+.header-area{
+width: 100%;
+height: 70vh;
+background-color: aqua;
+}
+
+.menu{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.menu-list{
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+}
+
+
+.img-mian{
+    width: 100%;
+    height: 50%;
+}
+
+.header-text{
+    width: 40%;
+    float: left;
+}
+
+.header-img{
+    width: 40%;
+    float: right;
+}
+
+#text{
+    color: gray
+}
